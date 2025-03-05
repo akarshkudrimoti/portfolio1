@@ -1,5 +1,5 @@
 'use client';
-import { Terminal } from "@/components/Terminal"
+import { Terminal } from "@/components/Terminal/index"
 
 export default function TerminalPage() {
   return (
